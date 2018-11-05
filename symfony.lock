@@ -1,4 +1,10 @@
 {
+    "doctrine/lexer": {
+        "version": "v1.0.1"
+    },
+    "egulias/email-validator": {
+        "version": "2.1.6"
+    },
     "predis/predis": {
         "version": "v1.1.1"
     },
@@ -13,6 +19,9 @@
     },
     "psr/simple-cache": {
         "version": "1.0.1"
+    },
+    "swiftmailer/swiftmailer": {
+        "version": "v6.1.3"
     },
     "symfony/cache": {
         "version": "v4.1.7"
